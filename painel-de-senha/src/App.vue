@@ -126,7 +126,7 @@ export default {
   cursor: pointer;
 }
 
-.modal button:first-child {
+.modal button:first-of-type {
   background-color: #4caf50;
   color: white;
 }
