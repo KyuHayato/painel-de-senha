@@ -86,10 +86,22 @@ export default {
   margin-right: 10px;
   font-weight: bold;
 }
+.btn-next:hover{
+  background-color: #689be7;
+  cursor: pointer;
+}
 .btn-previus {
   background-color: rgb(211, 87, 87);
   color: white;
   font-weight: bold;
+}
+.btn-previus:hover{
+  background-color: rgb(246, 128, 128);
+  cursor: pointer;
+}
+.btn-repeat:hover{
+   background-color: rgb(219, 221, 152);
+   cursor: pointer;
 }
 .btn-repeat {
   background-color: rgb(235, 242, 25);

@@ -15,11 +15,6 @@ const passwordInfosMorning = [
         nameTeacher: "Kyu",
     },
     {
-        id: 4,
-        nameDiscipline: "SENAI",
-        nameTeacher: "Daniel",
-    },
-    {
         id: 5,
         nameDiscipline: "Matemática",
         nameTeacher: "Jamerson",
@@ -61,19 +56,14 @@ const passwordInfosMorning = [
     },
     {
         id: 13,
-        nameDiscipline: "Matemática",
+        nameDiscipline: "Humanas",
         nameTeacher: "Elias",
     },
     {
         id: 14,
         nameDiscipline: "Natureza",
         nameTeacher: "Juscelino",
-    },
-    {
-        id: 15,
-        nameDiscipline: "Linguagens",
-        nameTeacher: "Rebeka",
-    },
+    },  
 ]
 const passwordInfosAfternoon = [
     {
@@ -98,7 +88,7 @@ const passwordInfosAfternoon = [
     },
     {
         id: 5,
-        nameDiscipline: "Inglês",
+        nameDiscipline: "Inglês e Artes",
         nameTeacher: "Gabriela",
     },
     {
@@ -120,6 +110,31 @@ const passwordInfosAfternoon = [
         id: 9,
         nameDiscipline: "Português",
         nameTeacher: "Itamiris",
+    },
+    {
+        id: 10,
+        nameDiscipline: "Empreendedorismo",
+        nameTeacher: "Ítalo",
+    },
+    {
+        id: 11,
+        nameDiscipline: "Matemática",
+        nameTeacher: "Robson",
+    },
+    {
+        id: 12,
+        nameDiscipline: "Português",
+        nameTeacher: "Ronald",
+    },
+    {
+        id: 13,
+        nameDiscipline: "Ciências",
+        nameTeacher: "Joseane",
+    },
+    {
+        id: 14,
+        nameDiscipline: "Robótica",
+        nameTeacher: "Thiago",
     },
     
 ]
